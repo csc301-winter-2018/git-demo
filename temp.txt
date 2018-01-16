@@ -1,2 +1,2 @@
-The TA always wins in a git conflict.
+The Students always win in a git conflict.
 Hello Adam.
