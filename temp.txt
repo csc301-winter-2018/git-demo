@@ -1,1 +1,2 @@
 The TA always wins in a git conflict.
+Hello Adam.
